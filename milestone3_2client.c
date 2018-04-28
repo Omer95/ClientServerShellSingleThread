@@ -1,6 +1,6 @@
 /*
 * @author Omer Farooq Ahmed 
-* version 5.0.0/milestone3.1
+* version 6.0.0/milestone3.2
 * this program is the client
 * for the shell 
 */
